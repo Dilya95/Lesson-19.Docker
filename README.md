@@ -11,10 +11,10 @@
 ## Структура
 
 ```
-├── nginx/<br>
-│   ├── Dockerfile<br>
-│   └── index.html<br>
-├── README.md            # описание + ссылка на Docker Hub
+├── nginx/
+│   ├── Dockerfile
+│   └── index.html
+├── README.md
 ```
 
 ## Ссылка на мой готовый репозиторий в Docker Hub
